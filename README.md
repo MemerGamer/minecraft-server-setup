@@ -1,6 +1,6 @@
 # Config
 
-## Edit docker-compose.yml
+## Edit docker-compose.yaml
 
 Please edit the docker-compose.yaml to your liking.
 For example you can change the server name, the port, the memory, etc.
